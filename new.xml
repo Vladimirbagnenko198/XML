@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Name>Vladimir</Name>
+    <Lastname>Bagnenko</Lastname>
+    <Age >37</Age >
+    <Pets number>1</Pets number>
+    <Salary>16000</Salary>
+</root>
+
