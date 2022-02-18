@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Id>1</Id>
+    <Title>First bug report</Title>
+    <Description>First bug report</Description>
+    <Actualresult>First bug report</Actualresult>
+    <Expectedresult>First bug report</Expectedresult>
+    <Environment>Windows 10 corporate</Environment>
+    <Assigne>Vladimir Bagnenko</Assigne>
+    <Attachments>Hello Github!!</Attachments>
+</root>
